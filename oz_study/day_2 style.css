@@ -1,0 +1,9 @@
+/* 모든 선택 요소 선택 */
+*{
+    font-weight: bold;
+    color: aquamarine;
+}
+
+#red {
+    color: tomato;
+}
